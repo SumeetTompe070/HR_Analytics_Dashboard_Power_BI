@@ -28,3 +28,6 @@
 *Empolyees with (1-2)years of experience show the highest attrition rates.
 
 *Although the average salary is 6.5k employees earning below this range are more likely to leave the company.
+# HR ANALYTICS DASHBOARD:-
+![HR1](https://github.com/SumeetTompe070/HR_Analytics_Dashboard_Power_BI/assets/140255237/27741661-7b83-4336-a5f8-6f558657fd59).
+
